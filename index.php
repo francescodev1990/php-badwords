@@ -21,8 +21,8 @@
     <form action="./wordsegret.php" method="POST">
 
         <h1>Compila i dati richiesti!</h1>
-        <input type="text" name="" placeholder="Definizione">
-        <input type="text" name="" placeholder="Password">
+        <input type="text" name="nome" placeholder="Nome">
+        <input type="text" name="password" placeholder="Password">
         <button type="submit">Conferma Invio!</button>
 
     </form>
