@@ -26,9 +26,6 @@
         <button type="submit">Conferma Invio!</button>
 
     </form>
-    <form action="" method="POST">
-
-    </form>
 
 </body>
 
